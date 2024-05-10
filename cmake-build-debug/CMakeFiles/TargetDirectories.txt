@@ -1,0 +1,3 @@
+/Users/senadulger/Okul/CProgramlama/220229053_SenaNurDulger/cmake-build-debug/CMakeFiles/220229053_SenaNurDulger.dir
+/Users/senadulger/Okul/CProgramlama/220229053_SenaNurDulger/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/senadulger/Okul/CProgramlama/220229053_SenaNurDulger/cmake-build-debug/CMakeFiles/rebuild_cache.dir
